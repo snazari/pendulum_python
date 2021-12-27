@@ -1,0 +1,24 @@
+{
+global:
+pend_M_;
+pend_M;
+pend_Y;
+pend_initialize;
+pend_step;
+pend_terminate;
+
+
+theta;
+theta_dot;
+t_out;
+B;
+g;
+k;
+l;
+m;
+u;
+x_ddot_0;
+x_dot_0;
+local:
+		*;
+};
